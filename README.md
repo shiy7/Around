@@ -3,5 +3,5 @@
 * Utilized ElasticSearch (GCE) to provide geo-location based search functions such that users can search nearby posts within a distance (e.g. 200km)
 * Used Google Vision API to provide a face detection model and integrate with the Go service.
 
-## Flow Chart
+## Architecture
 ![Flow Chart](Go_Around.png)
